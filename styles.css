@@ -1,0 +1,35 @@
+/* ************************************TAG SELECTORS************************************ */
+body {
+  background-color: #e0ebe8;
+}
+/* This tag is used to remove the undeline of a link  */
+a {
+  text-decoration: none;
+}
+
+hr {
+  background-color: white;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+  height: 225px;
+}
+
+h1:hover {
+  text-shadow: 2px 3px #51dacf;
+}
+
+h3 {
+  text-shadow: 2px 3px #51dacf;
+}
+/* ************************************CLASS SELECTORS************************************ */
+
+
+
+p.italian {
+  font-style: italic;
+}
